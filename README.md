@@ -1,2 +1,2 @@
 # starwars-wiki-app
-Wiki app about stars wars
+Wiki app about star wars
